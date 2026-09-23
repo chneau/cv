@@ -1,6 +1,6 @@
 # Charles Neau
 **Senior Full-Stack & Systems Engineer**  
-Edinburgh, UK • [charles63500@gmail.com](mailto:charles63500@gmail.com) • +44 7397 174345  
+[Edinburgh, UK](https://maps.google.com/?q=Edinburgh,+UK) • [charles63500@gmail.com](mailto:charles63500@gmail.com) • [+44 7397 174345](tel:+447397174345)  
 [chneau.github.io](https://chneau.github.io) • [github.com/chneau](https://github.com/chneau) • [linkedin.com/in/chneau](https://linkedin.com/in/chneau)
 
 ---
@@ -19,7 +19,7 @@ Versatile, hands-on Senior Full-Stack & Systems Engineer with 10+ years of exper
 * **Databases & Data Engineering:** PostgreSQL, SQLite, MongoDB, Redis, Supabase, Prisma, Drizzle ORM, PostGIS, GIS / OSRM routing matrices, spatial indexing
 * **Simulation & Optimization:** Discrete-Event Simulation (SimPy), Constraint Satisfaction Problems (CSP), Combinatorial Scheduling & Routing, Zero-Allocation Data Structures
 * **DevOps, Cloud & Infrastructure:** Docker containerization, Kubernetes (K9s, Helm), GitHub Actions CI/CD, Terraform, Linux Administration, Nginx, Traefik, Nomad, Cloudflare
-* **AI & Developer Tooling:** Agentic AI Tooling (Antigravity, Claude Code, Cursor, Copilot), Biome, uv, Hyperfine, Lazygit, Tmux
+* **AI & Developer Tooling:** Claude Code, Antigravity, Cursor, Copilot, Biome, uv, Hyperfine, Lazygit, Tmux
 
 ---
 
