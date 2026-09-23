@@ -90,8 +90,8 @@ def build_docx(md_path: Path, docx_path: Path):
             i += 1
             continue
 
-        # Contact info row (Aberdeen, UK • ...)
-        if "Aberdeen, UK" in line or "chneau.github.io" in line:
+        # Contact info row (Edinburgh, UK • ...)
+        if "UK •" in line or "@gmail.com" in line or "chneau.github.io" in line:
             clean_text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', line)
             p = doc.add_paragraph()
             p.paragraph_format.space_before = Pt(0)

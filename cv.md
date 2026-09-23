@@ -1,13 +1,13 @@
 # Charles Neau
-**Senior / Lead Software Engineer & Systems Architect**  
-Aberdeen, UK • [charles63500@gmail.com](mailto:charles63500@gmail.com) • +44 7397 174345  
+**Senior Full-Stack & Systems Engineer**  
+Edinburgh, UK • [charles63500@gmail.com](mailto:charles63500@gmail.com) • +44 7397 174345  
 [chneau.github.io](https://chneau.github.io) • [github.com/chneau](https://github.com/chneau) • [linkedin.com/in/chneau](https://linkedin.com/in/chneau)
 
 ---
 
 ## Professional Summary
 
-Versatile, hands-on Lead Software Engineer and Systems Architect with 10+ years of experience engineering high-performance distributed platforms, discrete-event simulation & logistics optimization engines, and full-stack cloud-native web applications. Proven track record leading architecture and end-to-end delivery: from database tuning, GIS/routing algorithms, and real-time streaming to modern web UIs (React 19, TypeScript, Vite), Go/Bun microservices, Docker/Kubernetes infrastructure, CI/CD automation, and AI-accelerated workflows.
+Versatile, hands-on Senior Full-Stack & Systems Engineer with 10+ years of experience engineering high-performance distributed platforms, discrete-event simulation & logistics optimization engines, and full-stack cloud-native web applications. Proven track record leading architecture and end-to-end delivery: from database tuning, GIS/routing algorithms, and real-time streaming to modern web UIs (React 19, TypeScript, Vite), Go/Bun microservices, Docker/Kubernetes infrastructure, CI/CD automation, and AI-accelerated workflows.
 
 ---
 
@@ -25,11 +25,11 @@ Versatile, hands-on Lead Software Engineer and Systems Architect with 10+ years 
 
 ## Professional Experience
 
-### **Lead Software Engineer & Systems Architect**  
-*Celerum Ltd & PlanSea Solutions* — Aberdeen, UK  
+### **Senior Software Engineer**  
+*Celerum Ltd* — Aberdeen, UK  
 *February 2017 – Present*
 
-* **Cloud-Native Platform Architecture:** Architected and engineered **PlanSea v2** (cloud-native marine logistics and offshore supply vessel planning platform) unifying legacy monorepos into a modern Bun, Hono, React 19, and TypeScript web platform with Python/SimPy simulation and C# optimization engines as specialized background workers.
+* **Cloud-Native Platform Architecture:** Architected and engineered an enterprise cloud-native marine logistics and offshore supply vessel planning platform, unifying fragmented services into a modern Bun, Hono, React 19, and TypeScript web platform with Python/SimPy simulation and C# optimization engines as specialized background workers.
 * **Optimization & Simulation Engines:** Developed discrete-event simulation models and constraint-solving scheduling engines for offshore decommissioning, vessel sharing, and complex cargo logistics across North Sea operations.
 * **High-Performance Microservices & GIS:** Implemented zero-allocation Go microservices and GIS routing pipelines (OSRM approximation and spatial distance matrices) processing large-scale geospatial and AIS (Automatic Identification System) vessel telemetry data.
 * **Database & Query Optimization:** Architected multi-tenant data tiers across PostgreSQL, SQLite, MongoDB, and Redis; designed optimized schema migrations, spatial indexes, and caching strategies delivering sub-millisecond query latencies.
